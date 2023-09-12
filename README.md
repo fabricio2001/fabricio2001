@@ -34,3 +34,8 @@
 ### Other
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+
+![fabricio2001's Stats](https://github-readme-stats.vercel.app/api?username=fabricio2001&theme=vue&show_icons=true&hide_border=true&count_private=true)
+![fabricio2001's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabricio2001&theme=vue&hide_border=true)
+![fabricio2001's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabricio2001&theme=vue&show_icons=true&hide_border=true&layout=compact)
